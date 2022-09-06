@@ -2,7 +2,7 @@
 
 ![architectural diagram](https://github.com/jsidberry/tf-aws-distributed-jenkins/blob/main/images/arch-diag.png)
 
-# Distributed Jenkins CI/CD Pipeline on AWS
+
 The end result of this project is to have a distributed Jenkins setup on a cloud platform that will function as the backbone of a CI/CD pipeline for software development.
 
 This project uses several technologies used in the principles of DevOps. 
