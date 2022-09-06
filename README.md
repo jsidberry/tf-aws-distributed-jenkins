@@ -47,3 +47,6 @@ Ensure there is a proper `ansible.cfg` file in the same directory as this code. 
     - add add a listener with `aws_lb_listener` resource
     - attach the `target_group` to the `alb` by adding `aws_lb_target_group_attachment` resource
 - Set up HTTPS and a Route 53 Record
+
+# TODO
+- add better Jenkins integration (rm stub intg)
